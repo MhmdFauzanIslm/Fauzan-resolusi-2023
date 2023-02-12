@@ -5,3 +5,4 @@ Resolusi 2023
 - bisa pake framework
   - react
   - bootstrap
+- belajar library
