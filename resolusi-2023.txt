@@ -1,3 +1,4 @@
 Resolusi 2023
 - dapet nilai rata rata rapot 89
 - menamatkan roadmap front end nya WPU
+- membuat website potofolio
