@@ -1,7 +1,7 @@
 Resolusi 2023
 - dapet nilai rata rata rapot 89
 - membuat website potofolio
-- bikin game wack a mole
+- bikin kalkulator sederhana
 - bisa pake framework
   - react
   - bootstrap
